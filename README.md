@@ -41,21 +41,23 @@ The application recommends books using **popularity-based filtering** and **coll
 
 ## 📂 Project Structure
 
+```text
+.
 ├── app.py
 ├── model/
-│ └── recommender.pkl
+│   └── recommender.pkl
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── static/
-│ └── styles.css
+│   └── styles.css
 ├── notebooks/
-│ └── data_analysis.ipynb
+│   └── data_analysis.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 ---
-
 ## 🔮 Future Enhancements
+
 - 📊 Hybrid Filtering: Combine popularity-based and collaborative filtering for more robust recommendations
 - 🧠 Deep Learning Models: Explore neural networks for advanced recommendation accuracy
 - 🎨 Enhanced UI/UX: Add interactive features, responsive design, and improved visuals
