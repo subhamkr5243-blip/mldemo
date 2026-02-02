@@ -52,3 +52,14 @@ The application recommends books using **popularity-based filtering** and **coll
 │ └── data_analysis.ipynb
 ├── requirements.txt
 └── README.md
+
+## 🔮 Future Enhancements
+- 📊 Hybrid Filtering: Combine popularity-based and collaborative filtering for more robust recommendations
+- 🧠 Deep Learning Models: Explore neural networks for advanced recommendation accuracy
+- 🎨 Enhanced UI/UX: Add interactive features, responsive design, and improved visuals
+- 📱 User Profiles: Allow users to save preferences and track reading history
+- 🌍 Multilingual Support: Expand recommendations for books in different languages
+- 🔎 Search Functionality: Enable keyword-based book search alongside recommendations
+
+
+
