@@ -9,8 +9,8 @@ The application recommends books using **popularity-based filtering** and **coll
 
 - ⭐ Popularity-based book recommendations (top-rated books)
 - 🤝 Collaborative filtering using **Cosine Similarity**
-- 📖 Displays book title, author, and cover image
 - 🌐 Flask-based web application
+- 📖 Displays book title, author, and cover image
 - ⚠️ Error handling for unavailable or invalid book inputs
 
 ---
@@ -20,6 +20,7 @@ The application recommends books using **popularity-based filtering** and **coll
 ### 1. Popularity-Based Filtering
 - Recommends books based on overall ratings and number of reviews
 - Ideal for new users (no prior interaction required)
+- - Helps identify trending titles
 
 ### 2. Collaborative Filtering
 - Uses user–item interaction data
