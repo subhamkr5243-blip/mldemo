@@ -53,6 +53,8 @@ The application recommends books using **popularity-based filtering** and **coll
 ├── requirements.txt
 └── README.md
 
+---
+
 ## 🔮 Future Enhancements
 - 📊 Hybrid Filtering: Combine popularity-based and collaborative filtering for more robust recommendations
 - 🧠 Deep Learning Models: Explore neural networks for advanced recommendation accuracy
